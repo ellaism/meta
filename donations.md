@@ -13,3 +13,7 @@ If you are an active developer who frequently contribute code to Ellaism, manage
 ## Community
 
 If you are a renowed community member, please feel free to add your name in this section.
+
+## Special Thanks
+
+* [Minerpool.net](https://minerpool.net/) donates half of its Ellaism mining fees towards the Ellaism community and development.
