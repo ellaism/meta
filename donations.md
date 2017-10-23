@@ -33,4 +33,5 @@ You can also donate to individual developers for their work on Ellaism. Please c
 
 Please consider adding yourself to the list of you're an active community member of Ellaism, by sending a pull request to [ellaism/meta](https://github.com/ellaism/meta).
 
+* [@riddlez666](https://github.com/riddlez666): Web administrator of [ellaism.com](https://ellaism.com) and Ellaism Forum manager. [0xc393659c2918a64cdfb44d463de9c747aa4ce3f7](https://explorer.ellaism.org/#/address/0xc393659c2918a64cdfb44d463de9c747aa4ce3f7)
 * [@DragonFyZex](https://github.com/DragonFyZex): Ellaism Discord admin. [0xeE834d84B8B606F00a012bA5203F53a4A8D2Ce17](https://explorer.ellaism.org/#/address/0xeE834d84B8B606F00a012bA5203F53a4A8D2Ce17)
