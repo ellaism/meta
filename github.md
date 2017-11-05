@@ -17,7 +17,7 @@ Every member can create new repositories, and please feel free to do so if you t
 
 ## Granting Write Access to Existing Repositories
 
-The author of the project decides whether to grant a member write access. Note that for security-critical projects like go-ellaism and ellawallet, we may only have one or two people with write access and every changes go through a pull request.
+The author of the project decides whether to grant a member write access. Note that for security-critical projects like go-ellaism and ellawallet, we may only have one or two people with write access and every change go through a pull request.
 
 ## Interacting with Others
 
