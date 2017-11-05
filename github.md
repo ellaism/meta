@@ -1,6 +1,6 @@
 # Ellaism Github Organization Rules
 
-Blockchain softwares need to be of high code quality, because if it is done incorrectly, it can lead to user fund lost and other serious issues. Below are some basic rules that try to seek a balance of welcoming new contributors and maintaining security and security of Ellaism-related softwares.
+Blockchain softwares need to be of high code quality, because if it is done incorrectly, it can lead to user fund lost and other serious issues. Below are some basic rules that try to seek a balance of welcoming new contributors and maintaining stability and security of Ellaism-related softwares.
 
 ## Becoming a Github Organization Member
 
