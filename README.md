@@ -16,4 +16,4 @@ Create a new [issue](https://github.com/ellaism/meta/issues/new) in this repo if
 
 ## Donations
 
-Ellaism doesn't have an ICO and is a coin without pre-mine. Donations are welcomed to keep those that contributed to the coin rewarded. You can find donation addresses to developers and renowned community members [here](https://ellaism.org/donate/). Send a pull request to the [ellaism.org](https://github.com/ellaism/ellaism.org) repository to request to be added to the donation list.
+Ellaism doesn't have an ICO and is a coin without pre-mine. Donations are welcomed to keep those that contributed to the coin rewarded. You can find donation addresses to developers and community members [here](https://ellaism.org/donate/). Send a pull request to the [ellaism.org](https://github.com/ellaism/ellaism.org) repository to request to be added to the donation list.
