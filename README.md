@@ -2,9 +2,11 @@
 
 This is the project management repo for Ellaism. You can use this repo to find volunteer opportunities or to request fundings for your Ellaism-related project.
 
+If you would like to help managing issues, wikis and [kanbans](https://github.com/ellaism/meta/projects) for Ellaism, please let us know by creating a new issue in this repository. We will then add you to the `project-managers` team. While you are there, remember to follow [our Github organization rules](./github.md).
+
 ## Github Organization Rules
 
-We have some basic rules for this Github organization and please feel free to request to become a member. Find more information [here](./github.md).
+We have some basic rules for this Github organization and please feel free to request to become a member as a developer or as a project manager. Find more information [here](./github.md).
 
 ## Financial Reports
 
