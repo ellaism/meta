@@ -1,4 +1,4 @@
-# Multisig Wallets Deployment scripts
+# Multisig Wallets Deployment Scripts
 
 Those are scripts used to deploy Dev Fund and Community Fund multisig wallets.
 
