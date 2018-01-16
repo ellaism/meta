@@ -19,7 +19,7 @@ Dev Fund multisig address is at [0xe9C2d958E6234c862b4AfBD75b2fd241E9556303](htt
 Community Fund multisig address is at [0xA2C7779077Edc618C926AB5BA7510877C187cd92](https://explorer.ellaism.org/addr/0xA2C7779077Edc618C926AB5BA7510877C187cd92). Community Fund requires 4 out of 6 signers.
 
 * Bioaim. Community Manager. [Address](https://explorer.ellaism.org/addr/0x00698D7C72e86b5dD81bbf535DBC9790988C1fD8) [Keybase](https://keybase.io/bioaim)
-* Buzzkill. Community Manager. [Address](https://explorer.ellaism.org/addr/0xFAa3690A4C661D3bceE763D4337BEA37493065F2) [Keybase](https://keybase.io/buzzkillb)
+* Buzzkillb. Community Manager. [Address](https://explorer.ellaism.org/addr/0xFAa3690A4C661D3bceE763D4337BEA37493065F2), [Keybase](https://keybase.io/buzzkillb), and [Proof](https://explorer.ellaism.org/tx/0x2f9115f94502cde926b8569dbed9b879d8d33a6a4c425a8eb28e901fe4a304d1).
 * Tbates. Investor. [Address](https://explorer.ellaism.org/addr/0xF715A869ADC138739c80746530F7030F73AaD087) [Keybase](https://keybase.io/tbates76)
 * MakeMoneyOz. Ellaism Developer. [Address](https://explorer.ellaism.org/addr/0x89b09D40c25B05491AAeb236F6e4465D7A74bdb7) [Keybase](https://keybase.io/makemoneyoz)
 * CountCryptula. Community Manager. [Address](https://explorer.ellaism.org/addr/0x349A6EaA5c71f8D9788DAA3A3e8302885BfB903D) [Keybase](https://keybase.io/countcryptula)
