@@ -10,8 +10,8 @@ Note that this is not a governance process. The goals for Dev Fund and Community
 
 Dev Fund multisig address is at [0xe9C2d958E6234c862b4AfBD75b2fd241E9556303](https://explorer.ellaism.org/addr/0xe9C2d958E6234c862b4AfBD75b2fd241E9556303). Dev Fund requires 2 out of 3 signers:
 
-* Ellaismer. Core Developer of Ellaism. [Address](https://explorer.ellaism.org/addr/0x0058781f3A0C1a9BE51581CBD8BC41B871c37713) [Keybase](https://keybase.io/ellaismer) [Proof](https://explorer.ellaism.org/tx/0x350284b27e4136bc513c0cca6f6ac3959180c30534050e89243023353ac761b9)
-* Sorpaas. Independent Observer not affiliated with Ellaism Core. Core Developer of Ethereum Classic. [Address](https://explorer.ellaism.org/addr/0x00f974Bee5ABA74e57686A17B060Be6dA2222620) [Keybase](https://keybase.io/sorpaas)
+* Ellaismer. Core Developer of Ellaism. [Address](https://explorer.ellaism.org/addr/0x0058781f3A0C1a9BE51581CBD8BC41B871c37713), [Keybase](https://keybase.io/ellaismer), and [Proof](https://explorer.ellaism.org/tx/0x350284b27e4136bc513c0cca6f6ac3959180c30534050e89243023353ac761b9).
+* Sorpaas. Independent Observer not affiliated with Ellaism Core. Core Developer of Ethereum Classic. [Address](https://explorer.ellaism.org/addr/0x00f974Bee5ABA74e57686A17B060Be6dA2222620), [Keybase](https://keybase.io/sorpaas), and [Proof](https://explorer.ellaism.org/tx/0x1ec055fdd713ea10568f8f2e1894a384b122080494763a533e72a41318b18560).
 * Community Fund Multisig Wallet. [Address](https://explorer.ellaism.org/addr/0xA2C7779077Edc618C926AB5BA7510877C187cd92)
 
 ## Community Fund
