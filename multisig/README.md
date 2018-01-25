@@ -20,7 +20,7 @@ Community Fund multisig address is at [0xA2C7779077Edc618C926AB5BA7510877C187cd9
 
 * Bioaim. Community Manager. [Address](https://explorer.ellaism.org/addr/0x00698D7C72e86b5dD81bbf535DBC9790988C1fD8), [Keybase](https://keybase.io/bioaim), and [Proof](https://explorer.ellaism.org/tx/0xba0d96eca01a1245acd2f1b3ed33c01600cd7247f240f508a7a11200c568f888).
 * Buzzkillb. Community Manager. [Address](https://explorer.ellaism.org/addr/0xFAa3690A4C661D3bceE763D4337BEA37493065F2), [Keybase](https://keybase.io/buzzkillb), and [Proof](https://explorer.ellaism.org/tx/0x2f9115f94502cde926b8569dbed9b879d8d33a6a4c425a8eb28e901fe4a304d1).
-* Tbates. Investor. [Address](https://explorer.ellaism.org/addr/0xF715A869ADC138739c80746530F7030F73AaD087) [Keybase](https://keybase.io/tbates76)
+* Tbates. Investor. [Address](https://explorer.ellaism.org/addr/0xF715A869ADC138739c80746530F7030F73AaD087), [Keybase](https://keybase.io/tbates76), and [Proof](https://explorer.ellaism.org/tx/0x128a391be9cbe85ae79c50b2c48bf92a1c44d58a01a018233aba45b13058596c).
 * MakeMoneyOz. Ellaism Developer. [Address](https://explorer.ellaism.org/addr/0x89b09D40c25B05491AAeb236F6e4465D7A74bdb7) [Keybase](https://keybase.io/makemoneyoz)
 * CountCryptula. Community Manager. [Address](https://explorer.ellaism.org/addr/0x349A6EaA5c71f8D9788DAA3A3e8302885BfB903D) [Keybase](https://keybase.io/countcryptula)
 * Chris Bischoff. Miner. [Address](https://explorer.ellaism.org/addr/0x1C1AF85d8ec7e3ad9532cdAb9D9EEc55A1bb383E) [Keybase](https://keybase.io/chrls)
