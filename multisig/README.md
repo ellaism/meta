@@ -24,3 +24,10 @@ Community Fund multisig address is at [0xA2C7779077Edc618C926AB5BA7510877C187cd9
 * MakeMoneyOz. Ellaism Developer. [Address](https://explorer.ellaism.org/addr/0x89b09D40c25B05491AAeb236F6e4465D7A74bdb7), [Keybase](https://keybase.io/makemoneyoz), and [Proof](https://explorer.ellaism.org/tx/0xd7aa49d82981de56c1f43cb4101ccbd57db19c4be9e53e5e5f141a480a65dab6).
 * CountCryptula. Community Manager. [Address](https://explorer.ellaism.org/addr/0x349A6EaA5c71f8D9788DAA3A3e8302885BfB903D), [Keybase](https://keybase.io/countcryptula), and [Proof](https://explorer.ellaism.org/tx/0xb2d44ae825f66fe11f8288e42d08ba2f6b4d42b652453dfab58acbab557c7d35).
 * Chris Bischoff. Miner. [Address](https://explorer.ellaism.org/addr/0x1C1AF85d8ec7e3ad9532cdAb9D9EEc55A1bb383E) [Keybase](https://keybase.io/chrls)
+
+
+## Want to verify the Multisig & Owners?
+
+* Verify the contract source code, as in the [deploy](https://github.com/ellaism/meta/tree/9791b8bb4c8ed56d2310fab430a5d0a2ba4650ed/multisig/deploy) folder.
+* Directly use the contract on the blockchain to get the addresses of all 6 signers.
+* Find the keybase address in [community](https://github.com/ellaism/meta/tree/9791b8bb4c8ed56d2310fab430a5d0a2ba4650ed/multisig/community) folder, and use the proof and coresponding proofs txid to confirm that the keybase owner indeed holds the Ellaism Owner Address(Wallet). To check the txid proof, decode the Hex data within the "Input Data" field in the tx.   
