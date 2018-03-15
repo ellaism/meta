@@ -1,0 +1,47 @@
+{
+  "0xe6be7841a6e6b98edd7b38f884a9e32b4170d6b5": {
+    "stats": "http://ella.minerpool.net/api/stats"
+  },
+  "0x65767ec6d4d3d18a200842352485cdc37cbf3a21": {
+    "stats": "http://poolapi.ellaism.org/api/stats"
+  },
+  "0xd2871774292e5c7f91fcd5d03b802905e8b414a5": {
+    "stats": "http://ella.pool.sexy/api/stats"
+  },
+  "0x00a86233f4d65f4018ca7f8626b96ce72af05a7c": {
+    "stats": "https://ella.2miners.com/api/stats"
+  },
+  "0x119e4cc05bf44f9cd0b34453b204b7c7089814e2": {
+    "stats": "http://ell.baikalmine.com/api/stats"
+  },
+  "0x852936b16e86a831c9653f48489bbc815390795e": {
+    "stats": "http://ellaismpool.com/api/stats"
+  },
+  "0x706e91ff1a586094855cb2408d54657df6b83258": {
+    "stats": "https://megapool.io/api/stats/ella"
+  },
+  "0xf35074bbd0a9aee46f4ea137971feec024ab704e": {
+    "stats": "http://ella.ethash-coins.ru/api/stats"
+  },
+  "0xb465deb4f55fddc2f227bf9dd3b6543b72631ccc": {
+    "stats": "http://ella.altpool.pro/api/stats"
+  },
+  "0x70a55acb5eec85a7823be72b9c41d73f4411fb85": {
+    "stats": "https://pool.ellaism.io/api/stats"
+  },
+  "0x582ee8c40e931b66f3b1ed4c69d48a3a2cc81745": {
+    "stats": "http://ella.mole-pool.net/api/stats"
+  },
+  "0x4a44ef8b619e27f707bf0b0284c6ecf3e40cefd0": {
+    "stats": "https://ella.epool.io/api/stats"
+  },
+  "0x0038abf32713e5beb94acb591c8324aa8840c633": {
+    "stats": "https://ellaism.tetrapool.com/api/stats"
+  },
+  "0xd144e30a0571aaf0d0c050070ac435deba461fab": {
+    "stats": "http://clona.ru:9010/api/stats"
+  },
+  "0x1cc2f94b2cd644aa3d262f7b144088b810375f80": {
+    "stats": "https://api.ella.mypool.online/api/stats"
+  }
+}
