@@ -30,7 +30,7 @@ Examples of unacceptable behavior by participants include:
 
 The Ellaism blockchain is decentralized. In the mean time, to create a positive community, the Ellaism's Discord server, social media accounts, and the Github organization are federated. However, this does not mean you need to agree on the Code of Conduct as a prerequsite to join the community -- within the community, we will have many more message boards and discussion places created by community members, and they may or may not choose to enforce this Code of Conduct.
 
-If you disagree with anything in this Code of Conduct, we do appreciate it if you can let the CoC working group know first.
+If you disagree with anything in this Code of Conduct, we do appreciate it if you can let the CoC Working Group know first.
 
 ## Moderation
 
