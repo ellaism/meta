@@ -22,13 +22,18 @@ solc.loadRemoteVersion("v0.4.15+commit.bbb8e64f", function(err, solc_specific) {
   contract.deploy({
     data: "0x" + bytecode,
     arguments: [[
-      "0x00698D7C72e86b5dD81bbf535DBC9790988C1fD8", // Bioaim
-      "0xFAa3690A4C661D3bceE763D4337BEA37493065F2", // Buzzkill
-      "0xF715A869ADC138739c80746530F7030F73AaD087", // Tbates
-      "0x89b09D40c25B05491AAeb236F6e4465D7A74bdb7", // MakeMoneyOz
-      "0x349A6EaA5c71f8D9788DAA3A3e8302885BfB903D", // CountCryptula
-      "0x1C1AF85d8ec7e3ad9532cdAb9D9EEc55A1bb383E"  // Chris
-    ], 4],
+      "0xe9C2d958E6234c862b4AfBD75b2fd241E9556303", // Ellaism Dev Fund
+      "0x26fE6DF9794b8d578C46006Ebe89bFc35c68F5aB", // Denis Vantur
+      "0xbcc3c89701a926aedcaffd519ec4273ee024bc85", // "psdev"
+      "0x262FF390464045573550B642F32b698cf3F24585", // Nathan R. Fish
+      "0x797fF8b16D332dcC19E75a6aF84A75E3A253246D", // Steve Mulligan
+      "0x8722b227C93c0a73c65e9B4b19ABb90E7103683c", // "volt"
+      "0x6DEB1d33bD4a02d1Ce89FcC1229484F62862dbe6", // "zenrobot"
+      "0x027F37f36ED17a493C777811975f3CB2d11F8946", // "towd"
+      "0x52EB48dE2aDBc87d1E1f564CA96151CDA0B9D054", // "limax"
+      "0x0B51933c62592c46995d0E01E58cE4571Ab2A05B", // Fernando Diaz Alfaro
+      "0x1B4D27704b19Cb121c93ce188284e7df659bEa34", // "sc0rp1on"
+    ], 6],
   }).send({
     from: "0x0023ce859bD711a271C0ef4578670A1F9fa3F2BC",
     gas: 2000000,
