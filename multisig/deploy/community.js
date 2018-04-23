@@ -22,7 +22,6 @@ solc.loadRemoteVersion("v0.4.15+commit.bbb8e64f", function(err, solc_specific) {
   contract.deploy({
     data: "0x" + bytecode,
     arguments: [[
-      "0xe9C2d958E6234c862b4AfBD75b2fd241E9556303", // Ellaism Dev Fund
       "0x26fE6DF9794b8d578C46006Ebe89bFc35c68F5aB", // Denis Vantur
       "0xbcc3c89701a926aedcaffd519ec4273ee024bc85", // "psdev"
       "0x262FF390464045573550B642F32b698cf3F24585", // Nathan R. Fish
@@ -32,7 +31,8 @@ solc.loadRemoteVersion("v0.4.15+commit.bbb8e64f", function(err, solc_specific) {
       "0x027F37f36ED17a493C777811975f3CB2d11F8946", // "towd"
       "0x52EB48dE2aDBc87d1E1f564CA96151CDA0B9D054", // "limax"
       "0x0B51933c62592c46995d0E01E58cE4571Ab2A05B", // Fernando Diaz Alfaro
-      "0x1B4D27704b19Cb121c93ce188284e7df659bEa34", // "sc0rp1on"
+      "0x1B4D27704b19Cb121c93ce188284e7df659bEa34", // Sooraj Singh
+      "0xe9C2d958E6234c862b4AfBD75b2fd241E9556303", // Ellaism Dev Fund
     ], 6],
   }).send({
     from: "0x0023ce859bD711a271C0ef4578670A1F9fa3F2BC",
