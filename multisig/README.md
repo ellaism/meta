@@ -16,7 +16,7 @@ Dev Fund multisig address is at [0xe9C2d958E6234c862b4AfBD75b2fd241E9556303](htt
 
 ## Community Fund
 
-Our new Community Fund is in the works. Stay tuned for more information. Community Fund requires 6 out of 11 signers:
+Community Fund multisig address is at [0x01ff0FFd25B64dE2217744fd7d4dc4aA3cAbceE7](https://explorer.ellaism.org/addr/0x01ff0FFd25B64dE2217744fd7d4dc4aA3cAbceE7). Community Fund requires 6 out of 11 signers:
 
 * Denis Vantur, Leader of Code of Conduct Working Group. [Address](https://explorer.ellaism.org/addr/0x26fE6DF9794b8d578C46006Ebe89bFc35c68F5aB)
 * "psdev", Miner and Dapps Developer. [Address](https://explorer.ellaism.org/addr/0xbcc3c89701a926aedcaffd519ec4273ee024bc85)
