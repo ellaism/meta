@@ -43,5 +43,8 @@
   },
   "0x1cc2f94b2cd644aa3d262f7b144088b810375f80": {
     "stats": "https://api.ella.mypool.online/api/stats"
+  },
+  "0x0f2d7bb733f14e7db23fec63fc9f6e306e8a41d3": {
+    "stats": "http://ella.digipools.org/api/stats"
   }
 }
