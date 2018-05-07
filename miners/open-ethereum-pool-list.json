@@ -46,5 +46,8 @@
   },
   "0x0f2d7bb733f14e7db23fec63fc9f6e306e8a41d3": {
     "stats": "http://ella.digipools.org/api/stats"
+  },
+  "0xb16eff3631169694e78cbe3e503b6aa8d9d745cf": {
+    "stats": "http://ella.poolhub.org/api/stats"
   }
 }
