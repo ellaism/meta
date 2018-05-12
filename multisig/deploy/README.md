@@ -3,7 +3,7 @@
 Those are scripts used to deploy Dev Fund and Community Fund multisig wallets.
 
 * Dev Fund: 0xe9C2d958E6234c862b4AfBD75b2fd241E9556303
-* Community Fund: 0xA2C7779077Edc618C926AB5BA7510877C187cd92
+* Community Fund: 0x01ff0FFd25B64dE2217744fd7d4dc4aA3cAbceE7
 
 ## Verify
 
