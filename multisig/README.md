@@ -28,7 +28,7 @@ Community Fund multisig address is at [0x01ff0FFd25B64dE2217744fd7d4dc4aA3cAbceE
 * "limax", Leader of Website Development Working Group. [Address](https://explorer.ellaism.org/addr/0x52EB48dE2aDBc87d1E1f564CA96151CDA0B9D054).
 * Fernando Diaz Alfaro, Leader of Website Development Working Group. [Address](https://explorer.ellaism.org/addr/0x0B51933c62592c46995d0E01E58cE4571Ab2A05B).
 * Sooraj Singh, Developer and Trader. Co-Founder of Whyral. [Address](https://explorer.ellaism.org/addr/0x1B4D27704b19Cb121c93ce188284e7df659bEa34).
-* Dev Fund Multisig. [Address](https://explorer.ellaism.org/addr/0x0058781f3A0C1a9BE51581CBD8BC41B871c37713).
+* Dev Fund Multisig. [Address](https://explorer.ellaism.org/addr/0xe9C2d958E6234c862b4AfBD75b2fd241E9556303).
 
 ## Verify Multisig Signers
 
