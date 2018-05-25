@@ -49,5 +49,8 @@
   },
   "0xa5f4a3020bdcc188e312e8dc9fd9f650c1fff008": {
     "stats": "https://pool.nonlocal.ca/api/stats"
+  },
+  "0x6b4387f2cae89df47a7fa870fe1b786938585bc2": {
+    "stats": "https://ella.upool.in/api/stats"
   }
 }
