@@ -40,6 +40,7 @@ In Ellaism's Discord server, the CoC Working Group is responsible for selecting 
 2. If the warning is unheeded, the user will be “kicked,” i.e., kicked out of the communication channel to cool off.
 3. If the user comes back and continues to make trouble, they will be banned, i.e., indefinitely excluded.
 4. Moderators may choose at their discretion to un-ban the user if it was a first offense and they offer the offended party a genuine apology.
+5. Spamming the server with another server's Discord invite link may lead to an instant ban.
 
 Moderators are held to a higher standard than other community members. If a moderator creates an inappropriate situation, they should expect less leeway than others.
 
