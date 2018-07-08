@@ -10,7 +10,7 @@ We have some basic rules for this Github organization to keep everything run smo
 
 ## Financial Reports
 
-We post Ellaism Core's financial reports here every month. You can find the latest edition [here](./finance/2018-05.md).
+We post Ellaism Core's financial reports here every month. You can find the latest edition [here](./finance/2018-06.md).
 
 ## Ideas and Projects Requiring Fundings
 
