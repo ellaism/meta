@@ -23,8 +23,15 @@ Problem: Social score of 0, missing facebook, twitter and blog info.
 Update Requested by: None
 
 Problem: Repo activity is 0, pointing at multi-geth
-Update Request by: None
+Update Requested by: None
 
+
+### Market Beat
+
+https://www.marketbeat.com/cryptocurrencies/ellaism/
+
+Problem: Wallet section out of date, Exchanges out of date, Twitter point to wrong account, Missing Facebook Page, Missing Explorer, Marked as "not" mineable, yet it lists mining software that seems out of date or incomplete, Indacoin lets you buy ELLA with USD
+Update Requested by: None
 
 
 ## Accurate
