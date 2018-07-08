@@ -15,6 +15,18 @@ Problem: Repo is pointing to go-ellaism it makes the coin look inactive.
 Update Requested by: None
 
 
+### Coincheckup
+
+https://coincheckup.com/coins/ellaism
+
+Problem: Social score of 0, missing facebook, twitter and blog info.
+Update Requested by: None
+
+Problem: Repo activity is 0, pointing at multi-geth
+Update Request by: None
+
+
+
 ## Accurate
 
 
