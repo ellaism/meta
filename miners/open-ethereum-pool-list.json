@@ -29,12 +29,6 @@
   "0x582ee8c40e931b66f3b1ed4c69d48a3a2cc81745": {
     "stats": "http://ella.mole-pool.net/api/stats"
   },
-  "0x4a44ef8b619e27f707bf0b0284c6ecf3e40cefd0": {
-    "stats": "https://ella.epool.io/api/stats"
-  },
-  "0x0038abf32713e5beb94acb591c8324aa8840c633": {
-    "stats": "https://ellaism.tetrapool.com/api/stats"
-  },
   "0xd144e30a0571aaf0d0c050070ac435deba461fab": {
     "stats": "http://clona.ru:9010/api/stats"
   },
