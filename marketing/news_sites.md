@@ -34,6 +34,15 @@ Problem: Wallet section out of date, Exchanges out of date, Twitter point to wro
 Update Requested by: None
 
 
+### Crypto Miso
+
+https://www.cryptomiso.com/
+
+Problem: Pointing at incorrect repo, makes project look like it has 0 activity. 
+
+Update Request by: Steve Mulligan, Requested they change the repo to point at the website instead of go-ellaism.
+
+
 ## Accurate
 
 
