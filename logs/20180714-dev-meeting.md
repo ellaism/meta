@@ -1,4 +1,4 @@
-# Development Meeting (7 July, 2018)
+# Development Meeting (14 July, 2018)
 
 This is the log of *Weekly General Development Meeting*. It happens every Saturday 4pm UTC in the #development [Discord channel](https://discord.ellaism.org).
 
