@@ -11,7 +11,8 @@ Note that this is not a governance process. The goals for Dev Fund and Community
 Dev Fund multisig address is at [0xe9C2d958E6234c862b4AfBD75b2fd241E9556303](https://explorer.ellaism.org/addr/0xe9C2d958E6234c862b4AfBD75b2fd241E9556303). Dev Fund requires 2 out of 3 signers:
 
 * "ellaismer". Core Developer of Ellaism. [Address](https://explorer.ellaism.org/addr/0x0058781f3A0C1a9BE51581CBD8BC41B871c37713), [Keybase](https://keybase.io/ellaismer), and [Proof](https://explorer.ellaism.org/tx/0x350284b27e4136bc513c0cca6f6ac3959180c30534050e89243023353ac761b9).
-* Wei Tang. Independent Observer not affiliated with Ellaism Core. Core Developer of Ethereum Classic. [Address](https://explorer.ellaism.org/addr/0x00f974Bee5ABA74e57686A17B060Be6dA2222620), [Keybase](https://keybase.io/sorpaas), and [Proof](https://explorer.ellaism.org/tx/0x1ec055fdd713ea10568f8f2e1894a384b122080494763a533e72a41318b18560).
+* Steve Mulligan. Core Developer of Ellaism. [Address](https://explorer.ellaism.org/addr/0x797ff8b16d332dcc19e75a6af84a75e3a253246d).
+* Krzysztof Pawliczuk. Core Developer of Ellaism. [Address](https://explorer.ellaism.org/addr/0xf48f5cff4b298fe47db71ab6a7f29b1e2fbd8571).
 * Community Fund Multisig. [Address](https://explorer.ellaism.org/addr/0xA2C7779077Edc618C926AB5BA7510877C187cd92).
 
 ## Community Fund
@@ -21,7 +22,6 @@ Community Fund multisig address is at [0x01ff0FFd25B64dE2217744fd7d4dc4aA3cAbceE
 * Denis Vantur, Leader of Code of Conduct Working Group. [Address](https://explorer.ellaism.org/addr/0x26fE6DF9794b8d578C46006Ebe89bFc35c68F5aB).
 * "psdev", Miner and Dapps Developer. [Address](https://explorer.ellaism.org/addr/0xbcc3c89701a926aedcaffd519ec4273ee024bc85).
 * Nathan R. Fish, Trader. [Address](https://explorer.ellaism.org/addr/0x262FF390464045573550B642F32b698cf3F24585).
-* Steve Mulligan, Miner. [Address](https://explorer.ellaism.org/addr/0x797fF8b16D332dcC19E75a6aF84A75E3A253246D).
 * "volt", Miner. [Address](https://explorer.ellaism.org/addr/0x8722b227C93c0a73c65e9B4b19ABb90E7103683c).
 * "zenrobot", Telegram Chat Admin. [Address](https://explorer.ellaism.org/addr/0x6DEB1d33bD4a02d1Ce89FcC1229484F62862dbe6).
 * "towd", Leader of Community Fund Bootstrap Working Group. [Address](https://explorer.ellaism.org/addr/0x027F37f36ED17a493C777811975f3CB2d11F8946).
