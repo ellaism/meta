@@ -7,7 +7,6 @@ Ellaism is built by the community. Below, we list several persons that have cont
 Below are developers who actively maintain and develop softwares for Ellaism. If you are a developer, consider [joining the Ellaism development efforts](https://github.com/ellaism/meta/blob/master/github.md)!
 
 * **"ellaismer"**: Go/Rust Developer. Creator of Ellaism.
-* **Krzysztof Pawliczuk**: Developing Discord bots for Ellaism.
 * **Steve Mulligan**: Developing iOS/Android mobile wallets for Ellaism.
 
 We would also like to thank all contributors of the Ellaism project.
