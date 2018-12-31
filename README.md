@@ -16,7 +16,14 @@ We post Ellaism Core's financial reports here every month. You can find the late
 
 If you have an idea or a project that needs funding, [create a new issue](https://github.com/ellaism/meta/issues/new) detailing the requirements. If you are requesting funding for a project, please include the donation address in the issue description.
 
-## Donations
+## Useful Links
+
+ - [Ellaism Website](https://ellaism.org/)
+ - [Ellaism Wiki](https://wiki.ellaism.org/)
+ - [Block Explorer](https://explorer.ellaism.org/)
+ - [Network Stats](https://stats.ellaism.org/)
+ - [Protocol Specifications](https://github.com/ellaism/specs)
+
 ## Donate to Ellaism
 
 Ellaism was not pre-mined and did not raise funds via an ICO. Ellaism is a community-driven project where donations are welcomed in order to fund initiatives that will improve the Ellaism ecosystem. You can find the donation addresses for developers and community members on the [Ellaism Donation page](https://ellaism.org/donate/).
