@@ -10,7 +10,7 @@ Anyone and everyone is welcome to contribute. Please take a moment to review the
 
 ## Financial Reports
 
-We post Ellaism Core's financial reports here every month. You can find the latest edition [here](./finance/2018-06.md).
+We post Ellaism Core's financial reports here every month. You can find the latest edition [here](./finance/2018-07.md).
 
 ## Ideas and Projects Requiring Fundings
 
