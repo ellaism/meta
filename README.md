@@ -1,8 +1,8 @@
 # Ellaism Meta
 
-This is the project management repo for Ellaism. You can use this repo to find volunteer opportunities or to request fundings for your Ellaism-related project.
+This is the coordination hub for Ellaism projects. You can use this repository to find volunteer opportunities or to request funding for your Ellaism-related project.
 
-If you would like to become an Ellaism developer, or if you would like to help managing issues, wikis and [kanbans](https://github.com/ellaism/meta/projects) for Ellaism, please let us know by creating a new issue in this repository and introducing yourself. We will then give you approriate write access to this Github organization. While you are there, remember to follow [our Github organization rules](./github.md).
+If you would like to become an Ellaism developer, or if you would like to help managing issues, wikis and [projects](https://github.com/ellaism/meta/projects) for Ellaism, please let us know by creating a new issue in this repository and introducing yourself.
 
 ## Github Organization Rules
 
