@@ -4,9 +4,9 @@ This is the coordination hub for Ellaism projects. You can use this repository t
 
 If you would like to become an Ellaism developer, or if you would like to help managing issues, wikis and [projects](https://github.com/ellaism/meta/projects) for Ellaism, please let us know by creating a new issue in this repository and introducing yourself.
 
-## Github Organization Rules
+## Contributing to this Project
 
-We have some basic rules for this Github organization to keep everything run smoothly. Find more information, refer to [this document](./github.md).
+Anyone and everyone is welcome to contribute. Please take a moment to review the [guidelines for contributing](github.md).
 
 ## Financial Reports
 
