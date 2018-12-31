@@ -12,9 +12,9 @@ Anyone and everyone is welcome to contribute. Please take a moment to review the
 
 We post Ellaism Core's financial reports here every month. You can find the latest edition [here](./finance/2018-07.md).
 
-## Ideas and Projects Requiring Fundings
+## Ideas and Project Funding Requests
 
-Create a new [issue](https://github.com/ellaism/meta/issues/new) in this repo if you have an idea or a project that needs funding. Ask people with access rights to this repo to give it approriate labels "idea" or "funding required". Include the donation address in the issue description if applicable.
+If you have an idea or a project that needs funding, [create a new issue](https://github.com/ellaism/meta/issues/new) detailing the requirements. If you are requesting funding for a project, please include the donation address in the issue description.
 
 ## Donations
 
