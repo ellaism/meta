@@ -1,21 +1,29 @@
 # Ellaism Meta
 
-This is the project management repo for Ellaism. You can use this repo to find volunteer opportunities or to request fundings for your Ellaism-related project.
+This is the coordination hub for Ellaism projects. You can use this repository to find volunteer opportunities or to request funding for your Ellaism-related project.
 
-If you would like to become an Ellaism developer, or if you would like to help managing issues, wikis and [kanbans](https://github.com/ellaism/meta/projects) for Ellaism, please let us know by creating a new issue in this repository and introducing yourself. We will then give you approriate write access to this Github organization. While you are there, remember to follow [our Github organization rules](./github.md).
+If you would like to become an Ellaism developer, or if you would like to help managing issues, wikis and [projects](https://github.com/ellaism/meta/projects) for Ellaism, please let us know by creating a new issue in this repository and introducing yourself.
 
-## Github Organization Rules
+## Contributing to this Project
 
-We have some basic rules for this Github organization to keep everything run smoothly. Find more information, refer to [this document](./github.md).
+Anyone and everyone is welcome to contribute. Please take a moment to review the [guidelines for contributing](github.md).
 
 ## Financial Reports
 
-We post Ellaism Core's financial reports here every month. You can find the latest edition [here](./finance/2018-06.md).
+We publish Ellaism Core's financial reports quarterly. You can find the latest financial report [here](./finance/2018-06.md).
 
-## Ideas and Projects Requiring Fundings
+## Ideas and Project Funding Requests
 
-Create a new [issue](https://github.com/ellaism/meta/issues/new) in this repo if you have an idea or a project that needs funding. Ask people with access rights to this repo to give it approriate labels "idea" or "funding required". Include the donation address in the issue description if applicable.
+If you have an idea or a project that needs funding, [create a new issue](https://github.com/ellaism/meta/issues/new) detailing the requirements. If you are requesting funding for a project, please include the donation address in the issue description.
 
-## Donations
+## Useful Links
 
-Ellaism doesn't have an ICO and is a coin without pre-mine. Donations are welcomed to keep those that contributed to the coin rewarded. You can find donation addresses to developers and community members [here](https://ellaism.org/donate/). Send a pull request to the [ellaism.org](https://github.com/ellaism/ellaism.org) repository to request to be added to the donation list.
+ - [Ellaism Website](https://ellaism.org/)
+ - [Ellaism Wiki](https://wiki.ellaism.org/)
+ - [Block Explorer](https://explorer.ellaism.org/)
+ - [Network Stats](https://stats.ellaism.org/)
+ - [Protocol Specifications](https://github.com/ellaism/specs)
+
+## Donate to Ellaism
+
+Ellaism was not pre-mined and did not raise funds via an ICO. Ellaism is a community-driven project where donations are welcomed in order to fund initiatives that will improve the Ellaism ecosystem. You can find the donation addresses for developers and community members on the [Ellaism Donation page](https://ellaism.org/donate/).
