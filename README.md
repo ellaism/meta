@@ -1,4 +1,4 @@
-# ![Ellaism](docs/logo.png) Ellaism
+# ![Ellaism](doc/logo.png) Ellaism
 
 An open-source platform for decentralized applications.
 
@@ -6,7 +6,14 @@ An open-source platform for decentralized applications.
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
 ## Introduction
+
 Ellaism is an open-source platform for decentralized applications. Ellaism features similar capabilities as the Ethereum network, allowing for deployments of smart contracts that are compatible with the Ethereum Virtual Machine. At block height 2,000,000 the Ellaism network forked to enable Parity's Wasm implementation, allowing for contracts to be written in any language that can compile to WebAssembly.
+
+### Table of Contents
+
+* [Development and Community Funds](doc/funds.md)
+* [Financial Reports](doc/financials)
+* [Developer Meeting Logs](doc/logs)
 
 ## Contributing to the Project
 
