@@ -35,5 +35,5 @@ Ellaism is a 100% community-sponsored project. If you want to join our efforts, 
 
 ## License
 
-Ellaism documentation is released under the terms of the MIT license. See [LICENSE](LICENSE) 
+This project is released under the terms of the MIT license. See [LICENSE](LICENSE) 
 for more information or see https://opensource.org/licenses/MIT.
