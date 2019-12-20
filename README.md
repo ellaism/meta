@@ -1,4 +1,4 @@
-# ![Ellaism](img/logo.png) Ellaism
+# ![Ellaism](docs/logo.png) Ellaism
 
 An open-source platform for decentralized applications.
 
@@ -18,13 +18,13 @@ Anyone and everyone is welcome to contribute. Please take a moment to review the
 
 ## Supporting the Project
 
-Ellaism is a 100% community-sponsored project. If you want to join our efforts, the easiest thing you can do is support the project financially. To learn how to donate to the Ellaism Project, see our [donation page](https://ellaism.io/donate/).
+Ellaism is a 100% community-sponsored project. If you want to join our efforts, the easiest thing you can do is support the project financially. To learn how to donate to the Ellaism Project, see our [donation page](https://ellaism.io/donate).
 
 ## Useful Links
 
- - [Ellaism Website](https://ellaism.io/)
- - [Block Explorer](https://explorer.ellaism.io/)
- - [Network Stats](https://stats.ellascout.com/)
+ - [Ellaism Website](https://ellaism.io)
+ - [Block Explorer](https://explorer.ellaism.io)
+ - [Network Stats](https://stats.ellascout.com)
 
 ## License
 
