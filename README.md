@@ -2,7 +2,7 @@
 
 An open-source platform for decentralized applications.
 
-![GitHub](https://img.shields.io/github/license/ellaismproject/ellaism)
+[![GitHub](https://img.shields.io/github/license/ellaismproject/ellaism)](LICENSE)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
 ## Introduction
@@ -13,7 +13,7 @@ Ellaism is an open-source platform for decentralized applications. Ellaism featu
 
 * [Development and Community Funds](doc/funds.md)
 * [Financial Reports](doc/financials)
-* [Developer Meeting Logs](doc/logs)
+* [Developer Meeting Logs](doc/meetings)
 
 ## Contributing to the Project
 
