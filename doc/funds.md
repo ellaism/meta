@@ -2,7 +2,7 @@
 
 In an effort to maintain a high level of transparency for the Ellaism Project, donated funds are held in multisignature (multisig) wallets. The multisig wallets for the development and community funds can receive inbound transactions as normal. However, to execute transactions, it requires multiple, unrelated entities to sign the transaction.
 
->The development and community funds are not intended to be utilized as a governance protocol. The understood purpose of these funds are to serve the community-driven goals of the Ellaism Project.
+>The development and community funds are not intended to be utilized as a governance protocol. The understood purpose of these funds is to serve the community-driven goals of the Ellaism Project.
 
 Please see below for the current signers for the development and community funds, respectively.
 
@@ -34,5 +34,5 @@ The community fund multisig address is [0x01ff0FFd25B64dE2217744fd7d4dc4aA3cAbce
 
 * Verify the contract source code located in the [multisig repository](https://github.com/ellaismproject/multisig).
 * Directly use the multisig contract on the blockchain to get the addresses of all signers for the development and community funds.
-* Find the keybase address, and use the coresponding proofs with transaction ids to confirm that the keybase owner indeed holds the Ellaism address.
+* Find the keybase address, and use the corresponding proofs with transaction ids to confirm that the keybase owner indeed holds the Ellaism address.
   * To check the transaction id proof, decode the hex data within the transaction data.
