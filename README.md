@@ -13,11 +13,10 @@ Ellaism has a monetary policy which includes a mining reward of 5 ELLA per block
 
 ### Table of Contents
 
-1. [Get Connected to Ellaism](doc/connect.md)
-  1.1 Chain Specifications
-    1.1.1 [Mainnet](chainspec/ellaism.json)
-    1.1.2 [Testnet](chainspec/autumnus.json)
-2. [Financial Reports](doc/financials)
+1. [Get Connected to Ellaism](doc/connect.md)<br>
+  1.1 [Mainnet Chain Specifications](chainspec/ellaism.json)<br>
+  1.2 [Testnet Chain Specifications](chainspec/autumnus.json)
+2. [Financial Reports](doc/financials)<br>
   2.1 [Development and Community Funds](doc/funds.md)
 3. [Developer Meeting Logs](doc/meetings)
 
