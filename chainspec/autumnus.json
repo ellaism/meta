@@ -33,8 +33,7 @@
     "eip161dTransition": "0x7fffffffffffffff",
     "eip211Transition": 0,
     "eip214Transition": 0,
-    "eip658Transition": 0,
-    "wasmActivationTransition": 0
+    "eip658Transition": 0
   },
   "genesis": {
     "seal": {
