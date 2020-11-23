@@ -1,0 +1,149 @@
+{
+  "name": "Autumnus",
+  "dataDir": "autumnus",
+  "engine": {
+    "authorityRound": {
+      "params": {
+        "stepDuration": "5",
+        "blockReward": "0x4563918244F40000",
+        "validators": {
+          "multi": {
+            "0": {
+              "list": [
+                "0x9afaacbAaAdbD1CA2fDc3D284b94B493e81F6B88",
+                "0xC0aE4D40aAa4Efd0c4BFbCA6ed2fD26A0Ed65CF2",
+                "0x7cBa55133f39bF3e4349c916CCd8DF90A54218D4"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "params": {
+    "gasLimitBoundDivisor": "0x400",
+    "maximumExtraDataSize": "0x20",
+    "minGasLimit": "0x1388",
+    "networkID": "0x4042",
+    "eip98Transition": "0x7fffffffffffff",
+    "eip140Transition": 0,
+    "eip150Transition": "0x0",
+    "eip160Transition": "0x0",
+    "eip161abcTransition": "0x7fffffffffffffff",
+    "eip161dTransition": "0x7fffffffffffffff",
+    "eip211Transition": 0,
+    "eip214Transition": 0,
+    "eip658Transition": 0
+  },
+  "genesis": {
+    "seal": {
+      "authorityRound": {
+        "step": "0x0",
+        "signature": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    },
+    "difficulty": "0x20000",
+    "gasLimit": "0x5B8D80"
+  },
+  "nodes": [
+    "enode://52377108ce5dd5d65e998f3bd0757ecf5335f6795517e1198b7d509c944228ca0a25dfe2f16f01cdb6ee5949a71735902bf456faa1225ff23a59b0094bbdb697@142.93.244.21:30303",
+    "enode://2cd2c38cd9bd5473126759f5d8b7da948f9537549099320cb35ed9d52b4afc2ca0ee030b5715510ff078443677a4c9eaf9532d18822820e71f8940f456a24b7f@46.101.239.126:30303",
+    "enode://5be5107c4a63cd361a153a2a7e67fbeacd4144cf9d8277e7fe95a74efa8ce7924d6f650202e9770308defc505d6c5f698c5b3fd6675481daf2eca21633345c59@167.99.78.154:30303"
+  ],
+  "accounts": {
+    "0000000000000000000000000000000000000001": {
+      "builtin": {
+        "name": "ecrecover",
+        "pricing": {
+          "linear": {
+            "base": 3000,
+            "word": 0
+          }
+        }
+      }
+    },
+    "0000000000000000000000000000000000000002": {
+      "builtin": {
+        "name": "sha256",
+        "pricing": {
+          "linear": {
+            "base": 60,
+            "word": 12
+          }
+        }
+      }
+    },
+    "0000000000000000000000000000000000000003": {
+      "builtin": {
+        "name": "ripemd160",
+        "pricing": {
+          "linear": {
+            "base": 600,
+            "word": 120
+          }
+        }
+      }
+    },
+    "0000000000000000000000000000000000000004": {
+      "builtin": {
+        "name": "identity",
+        "pricing": {
+          "linear": {
+            "base": 15,
+            "word": 3
+          }
+        }
+      }
+    },
+    "0000000000000000000000000000000000000005": {
+      "builtin": {
+        "name": "modexp",
+        "activate_at": 0,
+        "pricing": {
+          "modexp": {
+            "divisor": 20
+          }
+        }
+      }
+    },
+    "0000000000000000000000000000000000000006": {
+      "builtin": {
+        "name": "alt_bn128_add",
+        "activate_at": 0,
+        "pricing": {
+          "linear": {
+            "base": 500,
+            "word": 0
+          }
+        }
+      }
+    },
+    "0000000000000000000000000000000000000007": {
+      "builtin": {
+        "name": "alt_bn128_mul",
+        "activate_at": 0,
+        "pricing": {
+          "linear": {
+            "base": 40000,
+            "word": 0
+          }
+        }
+      }
+    },
+    "0000000000000000000000000000000000000008": {
+      "builtin": {
+        "name": "alt_bn128_pairing",
+        "activate_at": 0,
+        "pricing": {
+          "alt_bn128_pairing": {
+            "base": 100000,
+            "pair": 80000
+          }
+        }
+      }
+    },
+    "28ca297Dc6B967659bd8C809bAE5007E935dAa36": {
+      "balance": "1606938044258990275541962092341162602522202993782792835301376"
+    }
+  }
+}

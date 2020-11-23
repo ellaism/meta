@@ -1,29 +1,44 @@
-# Ellaism Meta
+# Ellaism
 
-This is the coordination hub for Ellaism projects. You can use this repository to find volunteer opportunities or to request funding for your Ellaism-related project.
+ > An open-source platform for decentralized applications.
 
-If you would like to become an Ellaism developer, or if you would like to help managing issues, wikis and [projects](https://github.com/ellaism/meta/projects) for Ellaism, please let us know by creating a new issue in this repository and introducing yourself.
+[![GitHub](https://img.shields.io/github/license/ellaismproject/ellaism)](LICENSE)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-## Contributing to this Project
+## Introduction
 
-Anyone and everyone is welcome to contribute. Please take a moment to review the [guidelines for contributing](github.md).
+Ellaism is an open-source platform for decentralized applications. Ellaism features similar capabilities as the Ethereum network, allowing for deployments of smart contracts that are compatible with the Ethereum Virtual Machine.
 
-## Financial Reports
+Ellaism has a monetary policy which includes a mining reward of 5 ELLA per block, and a maximum supply of approximately 280,000,000 ELLA. The block reward will be reduced by 20% every 10 million blocks to allow for a long tail emission to promote continued network security.
 
-We publish Ellaism Core's financial reports quarterly. You can find the latest financial report [here](./finance/2018-06.md).
+### Table of Contents
 
-## Ideas and Project Funding Requests
+1. [Get Connected to Ellaism](doc/connect.md)<br>
+  1.1 [Mainnet Chain Specifications](chainspec/ellaism.json)<br>
+  1.2 [Testnet Chain Specifications](chainspec/autumnus.json)
+2. [Financial Reports](doc/financials)<br>
+  2.1 [Development and Community Funds](doc/funds.md)
+3. [Developer Meeting Logs](doc/meetings)
 
-If you have an idea or a project that needs funding, [create a new issue](https://github.com/ellaism/meta/issues/new) detailing the requirements. If you are requesting funding for a project, please include the donation address in the issue description.
+## Supporting the Project
+
+Ellaism is a 100% community-sponsored project. If you want to join our efforts, the easiest thing you can do is support the project financially. To learn how to donate to the Ellaism Project, see our [donation page](https://ellaism.io/donate).
 
 ## Useful Links
 
- - [Ellaism Website](https://ellaism.org/)
- - [Ellaism Wiki](https://wiki.ellaism.org/)
- - [Block Explorer](https://explorer.ellaism.org/)
- - [Network Stats](https://stats.ellaism.org/)
- - [Protocol Specifications](https://github.com/ellaism/specs)
+ - [Ellaism Website](https://ellaism.io)
+ - [Block Explorer](https://explorer.ellaism.io)
+ - [Network Stats](https://stats.ellascout.com)
 
-## Donate to Ellaism
+## Contributing to the Project
 
-Ellaism was not pre-mined and did not raise funds via an ICO. Ellaism is a community-driven project where donations are welcomed in order to fund initiatives that will improve the Ellaism ecosystem. You can find the donation addresses for developers and community members on the [Ellaism Donation page](https://ellaism.org/donate/).
+Anyone and everyone is welcome to contribute. Please take a moment to review the [guidelines for contributing](CONTRIBUTING.md).
+
+* [Bug reports](CONTRIBUTING.md#bugs)
+* [Feature requests](CONTRIBUTING.md#features)
+* [Pull requests](CONTRIBUTING.md#pull-requests)
+
+## License
+
+This project is released under the terms of the MIT license. See [LICENSE](LICENSE) 
+for more information or see https://opensource.org/licenses/MIT.
